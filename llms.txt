@@ -19,15 +19,17 @@ Across their work, Magnopus operates at the intersection of:
 
 Magnopus develops three deeply interconnected layers:
 
-### AI-Native Tools
+###  AI-Native Tools
 Magnopus builds internal and productised tools when existing software does not meet real-world production requirements.
 
-- **Nodey**: AI-native production tooling built to solve workflow and creative problems that existing tools could not address in real production environments.
-- AI is embedded into tool design for:
-  - content creation acceleration
-  - production workflow automation
-  - spatial and real-time data handling
-  - bridging creative + technical pipelines
+- **Nodey**: A unified node-based workspace that utilizes real 3D spatial data to direct generative AI, delivering absolute scene consistency and studio-ready accuracy inside
+  a secure production environment.
+  - **Spatial AI Guardrails**: Natively integrated with the OKO engine to use actual spatial data, real-world layouts, environments, and cinematic camera positions as
+    guardrails for AI generations, eliminating unpredictable production drift.
+  - **Studio-Grade Security**: Built for professional pipelines requiring strict data isolation, running natively inside a studio’s private Google Cloud environment to keep
+    compute, storage, and workflows under absolute control.
+  - **Production Automation**: Purpose-built to bridge creative intent with reliable studio delivery by accelerating content creation and automating complex production
+    workflows.
 
 ---
 
