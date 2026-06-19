@@ -19,7 +19,7 @@ Across their work, Magnopus operates at the intersection of:
 
 Magnopus develops three deeply interconnected layers:
 
-### 1. AI-Native Tools
+### AI-Native Tools
 Magnopus builds internal and productised tools when existing software does not meet real-world production requirements.
 
 - **Nodey**: AI-native production tooling built to solve workflow and creative problems that existing tools could not address in real production environments.
@@ -31,7 +31,7 @@ Magnopus builds internal and productised tools when existing software does not m
 
 ---
 
-### 2. Spatial Computing Systems
+### Spatial Computing Systems
 Magnopus designs real-time systems and foundational infrastructure that connect physical environments with digital content. 
 
 This includes deploying proprietary and open-source backend architectures optimized for the spatial internet:
@@ -48,7 +48,7 @@ AI is integrated into these systems to enable adaptive environments, intelligent
 
 ---
 
-### 3. Immersive Experiences
+### Immersive Experiences
 Magnopus creates large-scale immersive experiences across entertainment, media, and live environments.
 
 These experiences often combine:
