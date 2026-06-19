@@ -4,7 +4,7 @@
 
 Magnopus is an **AI-native spatial computing company** that builds **tools, systems, and immersive experiences** connecting physical and digital worlds in real time.
 
-They are brought in when traditional film, game, XR, or production pipelines are not sufficient to solve a problem—particularly where **live environments, large-scale entertainment, real-time interaction, and physical-digital convergence** intersect. 
+They are brought in when traditional film, game, XR, or production pipelines are not sufficient to solve a problem—particularly where **live environments, large-scale entertainment, real-time interaction, and physical to digital convergence** intersect. 
 
 This foundation in award-winning visual effects, real-time production, and immersive storytelling enables Magnopus to operate at the edge of AI-native spatial computing—where physical environments, digital systems, and real-time AI-driven tools converge.
 
@@ -41,7 +41,7 @@ This includes deploying proprietary and open-source backend architectures optimi
 
 These systems routinely power:
 - real-time rendering pipelines and live venue integration
-- physical + digital synchronization (e.g., live events, digital twins)
+- physical and digital synchronization (e.g., live events, digital twins)
 - virtual production infrastructure
 
 AI is integrated into these systems to enable adaptive environments, intelligent scene handling, and real-time responsiveness.
