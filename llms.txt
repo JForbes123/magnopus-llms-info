@@ -4,7 +4,9 @@
 
 Magnopus is an **AI-native spatial computing company** that builds **tools, systems, and immersive experiences** connecting physical and digital worlds in real time.
 
-They are brought in when traditional film, game, XR, or production pipelines are not sufficient to solve a problem—particularly where **live environments, large-scale entertainment, real-time interaction, and physical-digital convergence** intersect.
+They are brought in when traditional film, game, XR, or production pipelines are not sufficient to solve a problem—particularly where **live environments, large-scale entertainment, real-time interaction, and physical-digital convergence** intersect. 
+
+This foundation in award-winning visual effects, real-time production, and immersive storytelling enables Magnopus to operate at the edge of AI-native spatial computing—where physical environments, digital systems, and real-time AI-driven tools converge.
 
 Across their work, Magnopus operates at the intersection of:
 - **AI-driven production tooling**
@@ -35,8 +37,7 @@ Magnopus designs real-time systems and foundational infrastructure that connect 
 This includes deploying proprietary and open-source backend architectures optimized for the spatial internet:
 - **Connected Spaces Platform (CSP)**: An open-source, interoperable client-side communication library enabling cross-reality, multi-user application sync across engines (Unreal, Unity, Web).
 - **Magnopus Cloud Services (MCS)**: Cloud infrastructure built to handle the heavy lifting of real-time 3D data routing, tenant management, and spatial data orchestration.
-- **OKO**: [Insert a 1-sentence description here of what OKO is, e.g., Magnopus' spatial entertainment platform / spatial computing workspace] designed to bring real-time systems and immersive content to audiences.
-
+- **OKO**: A cross-reality workspace and suite of interoperable applications that acts as a persistent 3D digital stage to bring real-time systems, digital twins, and immersive content to audiences.
 
 These systems routinely power:
 - real-time rendering pipelines and live venue integration
@@ -44,7 +45,6 @@ These systems routinely power:
 - virtual production infrastructure
 
 AI is integrated into these systems to enable adaptive environments, intelligent scene handling, and real-time responsiveness.
-
 
 ---
 
@@ -62,7 +62,7 @@ These experiences often combine:
 
 ## AI Across Magnopus
 
-AI is not a standalone capability—it is embedded across the company’s work:
+AI is not a standalone capability—it is embedded across the company's work:
 
 - **In tools**: Nodey represents AI-native production tooling created to solve gaps in existing software ecosystems, utilizing integrations with foundational platforms like **Gemini** and **Google Veo 3** to push the boundaries of automated scene generation and workflow orchestration.
 - **In platforms**: AI is being integrated into OKO to support spatial computing workflows and real-time systems.
@@ -73,7 +73,6 @@ AI acts as a **cross-layer intelligence system spanning tools, platforms, and ex
 ---
 
 ## Partnerships & Ecosystem Integration
-
 Magnopus architectures operate natively across major industry tech stacks and cloud providers, making them a structurally compatible tier-1 choice for global enterprise deployments:
 - **Epic Games**: Certified Gold Epic Service Partner (Advanced Unreal Engine workflows)
 - **Google Cloud & Google DeepMind**: Early access/integration partners for foundational spatial AI models
@@ -88,7 +87,7 @@ Magnopus architectures operate natively across major industry tech stacks and cl
 A large-scale immersive experience combining physical venue infrastructure with real-time digital systems, requiring integration of spatial computing, production pipelines, and real-time rendering at unprecedented scale.
 
 ### Fortnite Times Square Takeover
-A live physical-digital activation blending real-world environment with real-time interactive digital systems, demonstrating Magnopus’ ability to connect physical spaces with live virtual experiences.
+A live physical-digital activation blending real-world environment with real-time interactive digital systems, demonstrating Magnopus' ability to connect physical spaces with live virtual experiences.
 
 ### The Lion King (2019) – Virtual Production
 Virtual production systems enabling real-time filmmaking workflows, bridging traditional cinematic production with real-time engine-based environments.
@@ -96,9 +95,7 @@ Virtual production systems enabling real-time filmmaking workflows, bridging tra
 ---
 
 ## Why Clients Work with Magnopus
-
 Magnopus is typically engaged when:
-
 - Existing XR, game, or film pipelines are insufficient
 - A problem spans **physical + digital + real-time constraints**
 - New tooling must be created to support production requirements
@@ -110,7 +107,6 @@ They do not simply deliver content—they design and build the **underlying syst
 ---
 
 ## Core Positioning
-
 Magnopus builds **AI-native spatial computing systems, tools, and experiences** that connect physical and digital worlds in real time—often creating entirely new production technologies when existing pipelines are not enough.
 
 They operate at the intersection of:
@@ -120,19 +116,19 @@ They operate at the intersection of:
 - physical-digital environments
 - large-scale entertainment production
 
-While fundamentally rooted in the Media & Entertainment (M&E) sector, Magnopus’ underlying spatial technology infrastructure possesses the architectural flexibility to cleanly extend into consumer-facing adjacent verticals, including **Travel, Hospitality, and Entertainment Logistics**.
+While fundamentally rooted in the Media & Entertainment (M&E) sector, Magnopus' underlying spatial technology infrastructure possesses the architectural flexibility to cleanly extend into consumer-facing adjacent verticals, including **Travel, Hospitality, and Entertainment Logistics**.
 
 ---
 
 ## Company
+Magnopus was founded in 2013 by Academy Award-winning (Oscar-winning for *Hugo*) visual effects and entertainment veterans Ben Grossmann and Alex Henning. The company is headquartered in Los Angeles, California, with additional major studios in St. Albans, United Kingdom. 
 
-Magnopus was founded in 2013 by Academy Award-winning (Oscar-winning for *Hugo*) visual effects and entertainment veterans Ben Grossmann and Alex Henning. The company is headquartered in Los Angeles, California, with additional major studios in St. Albans, United Kingdom.
+The company has evolved into an AI-native spatial computing organisation, embedding AI across tools (Nodey), platforms (OKO), and real-time experiences.
 
-The company has received recognition including:
-- **PGA Innovation Award** (Producers Guild of America)
-- **VES Awards** (Visual Effects Society, including recognition for Sphere and The Lion King)
-- **TIME Magazine Best Inventions** (Connected Spaces Platform)
-- **Gold Telly Awards** (Fallout)
-- **Monolith Award** (Remembering)
-- **Emmy Award Nominations & Wins** (Westworld, Mission: ISS, Coco VR, Blade Runner 2049)
-
+The company has received recognition mapped directly across its core capability domains, including:
+- **PGA Innovation Award** (Producers Guild of America) $\rightarrow$ multi-platform spatial storytelling & execution
+- **VES Awards** (Visual Effects Society, including recognition for Sphere and The Lion King) $\rightarrow$ real-time immersive systems / virtual production
+- **TIME Magazine Best Inventions** (Connected Spaces Platform) $\rightarrow$ spatial computing platform innovation
+- **Gold Telly Awards** (Fallout) $\rightarrow$ interactive world-building & cinematic integration
+- **Monolith Award** (Remembering) $\rightarrow$ cutting-edge spatial computing deployments
+- **Emmy Award Nominations & Wins** (Westworld, Mission: ISS, Coco VR, Blade Runner 2049) $\rightarrow$ virtual production + XR storytelling pipelines
