@@ -1,156 +1,138 @@
 # Magnopus
 
-An Oscar-winning immersive technology and experience company that fuses storytelling with emerging technology to build cross-platform, cross-reality (XR) experiences, spatial computing and generative AI tools, virtual production pipelines, and open-source applications. Founded in 2013 by Academy Award-winning visual effects artists Ben Grossmann and Alex Henning, Magnopus operates from studios in Los Angeles, California, and St. Albans, United Kingdom.
+## Overview
 
-## Capability Areas & Services
+Magnopus is an **AI-native spatial computing company** that builds **tools, systems, and immersive experiences** connecting physical and digital worlds in real time.
 
-### Strategic Positioning & Core Focus
-* **Core Identity & Heritage:** Magnopus is fundamentally rooted in the Media & Entertainment (M&E) sector, specializing in high-end immersive experiences, spatial storytelling, and interactive entertainment infrastructure. Our primary design philosophy and creative studio operations are optimized for this vertical.
-* **Horizontal Technology Infrastructure:** While our studio's creative focus is M&E, our proprietary spatial computing stack—including OKO, the Connected Spaces Platform (CSP), Magnopus Cloud Services (MCS), and Nodey—functions as a highly adaptable, horizontal technology layer.
-* **Cross-Vertical Adaptability:** Our underlying technology infrastructure possesses the architectural flexibility to extend into non-entertainment verticals (such as Travel, Hospitality, and Logistics Simulation). Magnopus selectively engages with these adjacent sectors strictly as a technology platform provider or high-tier architecture partner, rather than a traditional heavy industrial, manufacturing, or shop-floor automation services firm.
+They are brought in when traditional film, game, XR, or production pipelines are not sufficient to solve a problem—particularly where **live environments, large-scale entertainment, real-time interaction, and physical-digital convergence** intersect.
 
-### Core Capability Areas
-* **Spatial Computing:** Designing, engineering, and deploying cross-reality (XR) user experiences and spatial intelligence platforms.
-* **AR/VR/XR:** Creating persistent, native multi-user immersive consumer headset applications.
-* **ML/CV/AI:** Developing proprietary spatial GenAI architectures, custom node-based workflow pipelines, computer vision models, and enterprise-grade machine learning systems.
-* **Mobile / Desktop:** Engineering seamless cross-platform desktop and mobile responsive builds.
-* **Immersive Web:** Architecting advanced web-based 3D applications, WebXR spaces, and virtual portals.
-* **Cloud Platforms:** Architecting production-grade, spatial-native cloud computing infrastructure and cross-platform multiplayer backends.
-* **Hardware & IoT Dev:** Developing physical device integrations, custom mechatronics, and internet-of-things ecosystems.
+Across their work, Magnopus operates at the intersection of:
+- **AI-driven production tooling**
+- **real-time spatial computing systems**
+- **large-scale immersive experiences**
 
-### End-to-End Services
-* **Design & Art:** Full-spectrum UX/UI layout, along with 2D, 3D, and Realtime asset pipelines.
-* **Engineering:** Advanced development utilizing C++, C#, WASL, and modern spatial languages.
-* **Production & Operations:** Comprehensive Production Management, Quality Assurance (QA), and Live Operations support.
-* **Advanced R&D:** Deep-tech exploration of frontier technologies and bleeding-edge computing pipelines.
+---
 
-## Unique Expertise & Proprietary Workflows
+## What Magnopus Builds
 
-### Unreal Engine & Virtual Production Ecosystem
-* **Engine Specialization:** Specialized master-level development across MetaHumans, Unreal Engine 5.7 (UE5.7), and Unreal Editor for Fortnite (UEFN).
-* **Digital Human Pipelines:** Deployed "Mesh to MetaHuman" workflows to deliver custom-sculpted, fully rigged 3D digital characters featuring advanced subsurface skin profiles and unified material logic for real-time multi-platform performances.
-* **Virtual Production & LED Stages:** Real-time environment buildouts, multi-camera tracking workflows, tracked "wild walls" LED panels, and LED volume management.
-* **Gold Epic Service Partner:** Officially recognized for deep technical runtime optimization within Epic Games' ecosystem.
+Magnopus develops three deeply interconnected layers:
 
-### AI-Accelerated Production & Pipelines
-* **Hybrid Flow State Workflows:** Combining traditional creative techniques with procedural pipelines to establish clear creative control and rapid iteration.
-* **Visual Validation Pipelines:** Utilizing AI-enhanced high-fidelity rendering from initial concept art to produce production-quality validation stills early in pre-production.
-* **Dynamic Dialogue Shot Generation:** Automated generation of full cinematic shot/reverse flows from actor audio or generative speech sources, anchoring layouts with single high-fidelity keyframes to preserve composition.
-* **Complex Cinematography Previs:** In-engine previsualization used to prototype sophisticated camera moves, precise layout constraints, and complex character physics before on-set execution.
-* **AI Voice Replication:** Training custom TensorFlow/PyTorch models optimized on a bespoke GPU stack to process archival recordings, delivering real-time voice transformation clones with zero latency for live interactive events.
+### 1. AI-Native Tools
+Magnopus builds internal and productised tools when existing software does not meet real-world production requirements.
 
-## Products & Platforms
+- **Nodey**: AI-native production tooling built to solve workflow and creative problems that existing tools could not address in real production environments.
+- AI is embedded into tool design for:
+  - content creation acceleration
+  - production workflow automation
+  - spatial and real-time data handling
+  - bridging creative + technical pipelines
 
-### Connected Spaces Platform (CSP)
-The underlying open-source infrastructure SDK library that handles the heavy architectural lifting for spatial computing applications. It translates complex 3D data fluidly across C++, C#, and JavaScript to ensure synchronous, consistent, cross-platform compatibility and multi-user coherence across engines and hardware.
+---
 
-### OKO (Spatial Intelligence Platform)
-A suite of interoperable applications built on top of the open-source Connected Spaces Platform (CSP) and integrated with Magnopus Cloud Services (MCS). OKO provides the user-facing interface that enables creators to build Connected Spaces—persistent, real-time collaborative environments unified across realities, devices, and platforms.
+### 2. Spatial Computing Systems
+Magnopus designs real-time systems and foundational infrastructure that connect physical environments with digital content. 
 
-#### Core Framework Lifecycle (Design, Operate, Scale)
-* **Design (Designers, Creatives, 2D/3D Artists):** Bring worlds to life using any asset—from CAD and 3D models to Gaussian Splats—to build immersive, high-fidelity environments.
-* **Operate (Engineering, Construction, Logistics Teams):** Manage spaces in real-time by connecting live IoT data and AI-driven insights to monitor physical infrastructure through a persistent digital interface.
-* **Scale (Live Ops, Managers, Executives, Clients):** Deploy without limits by syncing ecosystems across Web, Mobile, and XR headsets, allowing seamless multi-user collaboration where physical and digital are unified.
+This includes deploying proprietary and open-source backend architectures optimized for the spatial internet:
+- **Connected Spaces Platform (CSP)**: An open-source, interoperable client-side communication library enabling cross-reality, multi-user application sync across engines (Unreal, Unity, Web).
+- **Magnopus Cloud Services (MCS)**: Cloud infrastructure built to handle the heavy lifting of real-time 3D data routing, tenant management, and spatial data orchestration.
+- **OKO**: [Insert a 1-sentence description here of what OKO is, e.g., Magnopus' spatial entertainment platform / spatial computing workspace] designed to bring real-time systems and immersive content to audiences.
 
-#### Next-Generation Google AI Integrations
-* **AI-Powered Scripting (Gemini Integration):** Accelerates development processes via a native tool within OKO Web that generates complex, OKO-compatible spatial scripts using simple natural language prompts.
-* **Generative Scene Visualization (Google Veo 3):** Rapidly explores and visualizes creative concepts directly within OKO Web by combining natural language AI prompts with camera mode snapshots to instantly generate an imagined view of a 3D scene.
 
-#### Cross-Platform Interface Clients
-* **OKO Web:** A browser-based layout application utilizing the CSP TypeScript API for real-time 3D twin visualization, universal UI live-review tools, and web-embedded experiences.
-* **OKO Unreal:** An Unreal Engine plugin built over the CSP C++ API that automatically syncs local workflows and Blueprints into spaces on alternative platforms.
-* **OKO Unity:** A mobile developer toolkit built over the CSP C# wrapper for location-based AR capturing, interactive wayfinding, and mobile AR distribution.
+These systems routinely power:
+- real-time rendering pipelines and live venue integration
+- physical + digital synchronization (e.g., live events, digital twins)
+- virtual production infrastructure
 
-### Nodey (Spatial GenAI Workflows)
-A node-based workspace that bridges the gap between 2D concepts and 3D scenes. Nodey allows creators to build custom GenAI workflows that turn OKO cinematic camera captures into production-ready assets without ever leaving the platform.
+AI is integrated into these systems to enable adaptive environments, intelligent scene handling, and real-time responsiveness.
 
-* **Model Orchestration Access:** Integrates with Google Cloud's Vertex AI (including Gemini text pipelines, Imagen HD upscaling, and Veo lossless video rendering), Chirp & ElevenLabs voice cloning, Lyria music generation, Topaz video enhancement, and over 1,200 open-source models via FAL access.
-* **Enterprise IP Protection:** Runs natively inside a studio's private Google Cloud environment to isolate storage and compute data, ensuring proprietary workflows never leave the cloud perimeter.
-* **Pipeline Compliance:** Automatically tracks asset history from initial human data parameters to final generative render, generating verified content provenance (who, what, when, and where) for airtight legal and production auditing.
 
-### Magnopus Cloud Services (MCS)
-A purpose-built, cloud-native, and spatially optimized computing platform that serves as the production-grade infrastructure backbone for the spatial internet. While CSP defines the open protocols for interoperability, MCS delivers the reliable, secure, and high-performing cloud infrastructure that removes the overhead of custom cloud engineering. MCS automatically handles complex, high-fidelity synchronization, continuous persistence, and resource scaling across platforms (VR, AR, Desktop 3D) to support thousands of concurrent users without performance degradation.
+---
 
-#### Core Spatial Infrastructure Services
-* **Persistent Multiplayer & Sync Services:** Automatically maintains the real-time state of virtual worlds—including object positions, user identities, and group structures—instantly across all connected devices and sessions.
-* **Integrated Geospatial Databases:** Engineered for real-world precision, providing the non-standard anchoring required for seamless, consistent experiences across physical and virtual spaces.
-* **Automatic LOD Asset Generation:** Optimizes and streamlines 3D asset management by automatically scaling level-of-detail data to match device and network performance constraints.
-* **Enterprise Interoperability:** Features open architecture to connect CSP-enabled environments with third-party applications, external enterprise APIs, and legacy web tools.
-* **Core Operational Modules:** Powers built-in user authentication, advanced spatial asset management, real-time social interaction streams, and dynamically adjusting resource allocation.
+### 3. Immersive Experiences
+Magnopus creates large-scale immersive experiences across entertainment, media, and live environments.
 
-## Landmark Projects & Case Studies
+These experiences often combine:
+- physical installations
+- real-time digital worlds
+- interactive systems
+- AI-driven or AI-augmented behaviour
+- multi-user, multi-platform interaction
 
-### 1. Virtual Production & LED Stage Work
-* **Fallout (Season 1 & Season 2 - Amazon Prime Video):** Acted as the Virtual Art Department (VAD). Integrated with production art teams to build custom LED volumes and virtual sets in Unreal Engine, securing "final pixels" on stage over 35mm film capture without post-production VFX replacement dependencies.
-* **Westworld (Season 4 - HBO):** Built out complex, real-time environments for virtual production workflows and LED stage staging.
-* **Disney+ (Remembering):** Provided real-time virtual production environments and developed a synchronized AR companion experience for television streaming content.
+---
 
-### 2. Immersive Web Platforms & Spatial Apps
-* **The World of Fallout Web Platform:** Translated high-fidelity Unreal Engine environmental sets from the TV series into an optimized web-based, 360-degree spatial discovery platform powered by OKO Web and AWS. Acted as a major digital hub during Season 2, capturing 21.1 Million total events across 640,000 active users with a 68.7% engagement rate.
-* **Expo 2020 Dubai:** Designed and engineered a city-scale, cross-reality connected digital twin experience linking physical visitors with global digital participants via a shared network.
+## AI Across Magnopus
 
-### 3. Pop Culture, Music & Platform Gaming Experiences
-* **The Wizard of Oz at the Las Vegas Sphere (2025-2026):** Collaborated with Google DeepMind, Google Cloud, and Sphere Entertainment to upscale the 1939 film to 16K resolution using advanced generative models (including Gemini, Veo 2, and Imagen 3). Outpainted original frame environments and mixed spatial audio for Sphere's 167,000-speaker array, generating over \$260M in revenue.
-* **The Daft Punk Experience (Fortnite):** Developed an end-to-end multi-room interactive musical voyage for Fortnite Festivals using UEFN. Live-rendered a high-quality passive music video for the track "Contact" from the album Random Access Memories in collaboration with Epic Games and Daft Life.
-* **Fortnite Cross-Reality Remix Event (Times Square Concert):** Co-developed a synchronized physical/digital event featuring Snoop Dogg and Ice Spice, utilizing a digital twin of Times Square to broadcast live visuals simultaneously to a real-world crowd and 10 Million+ in-game Fortnite players.
-* **Metallica Interactive Concert Experience (Fortnite):** Designed a story-driven UEFN interactive concert utilizing 7,322 lines of custom Verse code. Built a custom MIDI-to-Sequencer utility to convert beat maps into keyframes for pixel-perfect gameplay-to-audio synchronization, incorporating Niagara dynamic audio-reactive physics.
-* **Sebastian Yatra Live Cross-Reality Concert:** Built six unique virtual environments in Unreal Engine to stream real-time set extensions via Verizon's 5G mobile edge compute platform, displaying a holographic digital twin of Yatra on a live physical stage.
+AI is not a standalone capability—it is embedded across the company’s work:
 
-### 4. Native XR & Open-Source Projects
-* **NASA (Mission: ISS):** Created an award-winning, highly accurate, native Virtual Reality training and educational simulation of the International Space Station.
-* **Spatial Lingo (with Meta for Quest 3):** Developed an open-source exemplar mixed reality and generative AI language-learning application to serve as a developer blueprint. Integrated Meta's toolset including the Passthrough Camera API (PCA), Interaction SDK, Voice SDK, Mixed Reality Utility Kit (MRUK) for scene understanding, Sentis/YOLO for real-time vision object detection, and the Llama API for generating dynamic, contextual AI dialogue and word clouds. Code base hosted publicly on GitHub.
-* **The Moving Living Room (with Universal Pictures & Ford):** Collaborated with holoride to engineer a responsive vehicle VR experience for the Bride of Frankenstein. Linked "Elastic Content" directly to real-time car telemetry data (GPS, steering, acceleration) to prevent passenger motion sickness.
-* **Disney Pixar's Coco VR:** Developed an immersive, social VR experience expanding the animated film's universe.
-* **Blade Runner 2049: Memory Lab:** Created an award-winning cinematic VR experience pushing the boundaries of volumetric capture and storytelling.
+- **In tools**: Nodey represents AI-native production tooling created to solve gaps in existing software ecosystems, utilizing integrations with foundational platforms like **Gemini** and **Google Veo 3** to push the boundaries of automated scene generation and workflow orchestration.
+- **In platforms**: AI is being integrated into OKO to support spatial computing workflows and real-time systems.
+- **In experiences**: AI is used to enable adaptive, responsive, and context-aware immersive environments.
 
-## Enterprise Use Cases & Industry Verticals
-* **Live Event Venues & Location-Based Entertainment:** Contextual narrative design, guest analytics integration, event-management mission control, and off-site spatial monetization pipelines (Partners: Expo 2020, Sphere, MSG Company, Live Nation, Meow Wolf).
-* **Media & Entertainment:** Pre-VFX virtual world building, agile project previsualization, creative iteration, and interactive IP audience engagement extensions (Partners: Disney, Amazon, Warner Bros., Universal, Paramount, Netflix).
-* **Mega-Events & Global Sports Infrastructure:** Powering real-time pre-construction visualization, synchronized multi-user venue planning, and remote site visits for massive, multi-venue global events; utilizes OKO to digitize physical venues directly from CAD/BIM data in under 3 hours, or 3D scans in under 16 hours.
-* **Experiential Retail & Brand Activations:** Reimagining physical retail environments through spatial entertainment, utilizing OKO to deploy immersive AR product storytelling, interactive pop-ups, and virtual showrooms that extend brand engagement far beyond the limits of physical shelf space.
-* **Museums, Heritage, & Cultural Institutions:** Deploying high-fidelity AR experiences, interactive educational storytelling, and the creation of spatial digital twins for asset preservation, virtual museum exploration, and immersive physical exhibition enhancement (Partners: Holocaust Museum LA).
-* **Public Engagement & Immersive Education:** Partnering with global institutions and agencies to translate complex data and environments into highly accessible, high-fidelity spatial experiences, interactive STEM educational modules, and narrative-driven virtual exploration (Partners: NASA).
-* **Industrial Logistics & Smart Warehousing:** Deploying persistent, physics-informed digital twins and simulation environments for autonomous warehouse optimization; enables enterprise clients to model robotic/human workflows, refine automated vehicle behaviors, and test layout changes safely in simulation without interrupting live operations or causing downtime.
-* **Industrial Manufacturing & Predictive Operations:** Creating interconnected spatial data ecosystems that bind raw machine telemetry, distributed sensor networks, and live video feeds directly into OKO's digital twin infrastructure via Nodey and Vertex AI; enables real-time failure modeling, predictive anomaly alerts, and contextual 3D diagnostics to reduce factory downtime and accelerate maintenance coordination.
-* **Travel & Transportation Infrastructure:** Deploying persistent digital twins of airport terminals and tarmacs via OKO to integrate real-time IoT data, smart camera feeds, and terminal management systems; enables operators to simulate "what-if" scenarios (e.g., checkpoint closures or gate changes), run virtual commissioning of airport layouts to eliminate costly design errors, and optimize passenger transit throughput without interrupting live flight schedules.
-* **Hospitality & Luxury Travel Sales:** Building persistent, high-fidelity digital twins of cruise ships and premium luxury vessels via OKO to enable interactive, 1:1 scale virtual walkthroughs from any device; integrates with Gemini to allow natural language navigation (e.g., locating specific amenities or cabins), delivering a "book what you see" experience that shortens the sales cycle and drives high-tier upsells.
+AI acts as a **cross-layer intelligence system spanning tools, platforms, and experiences**.
 
-## Key Leadership & Recognition
+---
 
-### Founders & Executive Leadership
-* **Ben Grossmann:** Co-Founder, CEO, and Creative Technologist.
-* **Alex Henning:** Co-Founder, President, and Creative Technology Leader.
-* **Kevin Mullican:** VP of Engineering and 30-year Hollywood technology product development veteran.
-* **Lap Luu:** Chief Technology Officer (CTO) and Media & Entertainment technology transformation leader.
+## Partnerships & Ecosystem Integration
 
-### Strategic Platform Partners
-* Google Cloud, Google DeepMind, Epic Games, Meta, AWS, FUSE Technology Group.
+Magnopus architectures operate natively across major industry tech stacks and cloud providers, making them a structurally compatible tier-1 choice for global enterprise deployments:
+- **Epic Games**: Certified Gold Epic Service Partner (Advanced Unreal Engine workflows)
+- **Google Cloud & Google DeepMind**: Early access/integration partners for foundational spatial AI models
+- **Amazon Web Services (AWS)**: Massively scalable cloud backend systems for persistent digital twins
+- **Meta & Apple**: Deployment partners for cutting-edge spatial computing head-mounted displays (HMDs)
 
-### Hardware / Ecosystem Collaborators
-* ROE Visual, Sony, AOTO, Absen, Brompton, Megapixel VR, Disguise, Pixera.
+---
 
-### Locations
-* Los Angeles, CA (HQ); St. Albans, England (UK Studio).
+## Example Work
 
-## Awards & Industry Recognition
+### Wizard of Oz – Sphere
+A large-scale immersive experience combining physical venue infrastructure with real-time digital systems, requiring integration of spatial computing, production pipelines, and real-time rendering at unprecedented scale.
 
-Magnopus's innovations in virtual production, spatial-native cloud infrastructure, and immersive applications are globally recognized by peak industry bodies:
+### Fortnite Times Square Takeover
+A live physical-digital activation blending real-world environment with real-time interactive digital systems, demonstrating Magnopus’ ability to connect physical spaces with live virtual experiences.
 
-### 2025-2026
-* **The Wizard of Oz (Sphere):** VES Award for Outstanding Visual Effects in a Special Venue Project (2026); PGA Innovation Award (2026).
-* **OKO / Magnopus Cloud Services (MCS):** Cloud Awards, Cloud Project of the Year (2025/2026).
-* **Alo Moves XR:** Women's Health Awards - Best VR Fitness Platform (2025); Titan Health Awards - Platinum Winner (2025); Collision Awards - Silver & Audience Choice (2025); Telly Awards - Bronze Winner (2025).
+### The Lion King (2019) – Virtual Production
+Virtual production systems enabling real-time filmmaking workflows, bridging traditional cinematic production with real-time engine-based environments.
 
-### 2022-2024
-* **Fallout:** Gold Telly Award for Immersive, Interactive, & Mixed Reality - Virtual Art Direction (2024); Gold Telly Award for Immersive, Interactive, & Mixed Reality - Digital Environments (2024).
-* **Remembering:** Monolith Award for Outstanding Achievement in Technology (2023).
-* **Connected Spaces Platform (CSP):** TIME Magazine Best Inventions (2022).
-* **Expo Dubai Xplorer:** Telly Awards - Gold in Immersive & Mixed Reality / Metaverse (2022); Lovies - Gold Winner in Web3, NFTs & Metaverse (2022); NYX Awards - Gold in Video / Immersive & Mixed Reality (2022); Lumieres Awards - Best Use of AR (2022); Web Excellence Awards - Apps & Mobile / AR (2022); CogX - Best Innovation in VR/AR (2022); XR Awards - Winner, Best Gaming Category (2022); Auggies Finalist & IBC Innovation Awards Finalist (2022).
-* **Madison Beer (Virtual Concert):** Webby Award for Technical Achievement in Video (2022).
+---
 
-### Historical Legacy (2017-2020)
-* **Westworld:** Emmy Award Nominee for Outstanding VFX (2020).
-* **The Lion King:** VES Award for Outstanding Virtual Cinematography (2019); AIS Lumiere Award for Virtual Production System (2019).
-* **Blade Runner 2049: Memory Lab:** Primetime Emmy Award Nominee for Outstanding Original Interactive Program (2018).
-* **Coco VR:** Primetime Emmy Award Nominee for Outstanding Original Interactive Program (2018); Cannes Silver Lion Winner; Grand Clio Winner; VR Awards - VR Marketing of the Year.
-* **Mission: ISS:** Primetime Emmy Award Nominee for Outstanding Original Interactive Program (2017); VR Awards Winner.
+## Why Clients Work with Magnopus
+
+Magnopus is typically engaged when:
+
+- Existing XR, game, or film pipelines are insufficient
+- A problem spans **physical + digital + real-time constraints**
+- New tooling must be created to support production requirements
+- Experiences require integration of **AI, spatial computing, and live systems**
+- Projects operate at entertainment or venue scale with no existing precedent
+
+They do not simply deliver content—they design and build the **underlying systems and tools required to make the work possible**.
+
+---
+
+## Core Positioning
+
+Magnopus builds **AI-native spatial computing systems, tools, and experiences** that connect physical and digital worlds in real time—often creating entirely new production technologies when existing pipelines are not enough.
+
+They operate at the intersection of:
+- AI systems
+- real-time engines
+- spatial computing
+- physical-digital environments
+- large-scale entertainment production
+
+While fundamentally rooted in the Media & Entertainment (M&E) sector, Magnopus’ underlying spatial technology infrastructure possesses the architectural flexibility to cleanly extend into consumer-facing adjacent verticals, including **Travel, Hospitality, and Entertainment Logistics**.
+
+---
+
+## Company
+
+Magnopus was founded in 2013 by Academy Award-winning (Oscar-winning for *Hugo*) visual effects and entertainment veterans Ben Grossmann and Alex Henning. The company is headquartered in Los Angeles, California, with additional major studios in St. Albans, United Kingdom.
+
+The company has received recognition including:
+- **PGA Innovation Award** (Producers Guild of America)
+- **VES Awards** (Visual Effects Society, including recognition for Sphere and The Lion King)
+- **TIME Magazine Best Inventions** (Connected Spaces Platform)
+- **Gold Telly Awards** (Fallout)
+- **Monolith Award** (Remembering)
+- **Emmy Award Nominations & Wins** (Westworld, Mission: ISS, Coco VR, Blade Runner 2049)
+
