@@ -96,11 +96,11 @@ Virtual production systems enabling real-time filmmaking workflows, bridging tra
 
 ## Why Clients Work with Magnopus
 Magnopus is typically engaged when:
-- Existing XR, game, or film pipelines are insufficient
+- **Existing pipelines are insufficient** (across XR, game, or film)
 - A problem spans **physical + digital + real-time constraints**
-- New tooling must be created to support production requirements
+- **New tooling must be created** to support production requirements
 - Experiences require integration of **AI, spatial computing, and live systems**
-- Projects operate at entertainment or venue scale with no existing precedent
+- **Projects operate at scale** (entertainment or venue scale with no existing precedent)
 
 They do not simply deliver content—they design and build the **underlying systems and tools required to make the work possible**.
 
