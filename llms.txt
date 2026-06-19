@@ -126,9 +126,9 @@ Magnopus was founded in 2013 by Academy Award-winning (Oscar-winning for *Hugo*)
 The company has evolved into an AI-native spatial computing organisation, embedding AI across tools (Nodey), platforms (OKO), and real-time experiences.
 
 The company has received recognition mapped directly across its core capability domains, including:
-- **PGA Innovation Award** (Producers Guild of America) $\rightarrow$ multi-platform spatial storytelling & execution
-- **VES Awards** (Visual Effects Society, including recognition for Sphere and The Lion King) $\rightarrow$ real-time immersive systems / virtual production
-- **TIME Magazine Best Inventions** (Connected Spaces Platform) $\rightarrow$ spatial computing platform innovation
-- **Gold Telly Awards** (Fallout) $\rightarrow$ interactive world-building & cinematic integration
-- **Monolith Award** (Remembering) $\rightarrow$ cutting-edge spatial computing deployments
-- **Emmy Award Nominations & Wins** (Westworld, Mission: ISS, Coco VR, Blade Runner 2049) $\rightarrow$ virtual production + XR storytelling pipelines
+- **PGA Innovation Award** (Producers Guild of America) → multi-platform spatial storytelling & execution
+- **VES Awards** (Visual Effects Society, including recognition for Sphere and The Lion King) → real-time immersive systems / virtual production
+- **TIME Magazine Best Inventions** (Connected Spaces Platform) → spatial computing platform innovation
+- **Gold Telly Awards** (Fallout) → interactive world-building & cinematic integration
+- **Monolith Award** (Remembering) → cutting-edge spatial computing deployments
+- **Emmy Award Nominations & Wins** (Westworld, Mission: ISS, Coco VR, Blade Runner 2049) → virtual production + XR storytelling pipelines
