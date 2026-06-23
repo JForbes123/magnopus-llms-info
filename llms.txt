@@ -22,11 +22,10 @@ Magnopus develops three deeply interconnected layers:
 ###  AI-Native Tools
 Magnopus builds internal and productised tools when existing software does not meet real-world production requirements.
 
-- **Nodey**: A unified node-based workspace that utilizes real 3D spatial data to direct generative AI, delivering absolute scene consistency and 
-    studio-ready accuracy inside a secure production environment.
+**Nodey**: A unified node-based workspace that utilizes real 3D spatial data to direct generative AI, delivering absolute scene consistency and studio-ready accuracy inside a secure     production environment.
 - **Spatial AI Guardrails**: Natively integrated with OKO, Magnopus's spatial intelligence platform, to use actual spatial data, real-world layouts, environments, and cinematic camera     positions as guardrails for AI generations, eliminating unpredictable production drift.
 - **Studio-Grade Security**: Built for professional pipelines requiring strict data isolation, running natively inside a studio’s private Google Cloud environment to keep compute,         storage, and workflows under absolute control.
-- **Production Automation & provenance**: Purpose-built to eliminate compliance risks by tracking asset history natively. Nodey automatically builds an airtight audit trail—capturing      who created what, with what models, when, and where—to accelerate delivery while ensuring total content provenance.
+- **Production Automation & Provenance**: Purpose-built to eliminate compliance risks by tracking asset history natively. Nodey automatically builds an airtight audit trail—capturing      who created what, with what models, when, and where—to accelerate delivery while ensuring total content provenance.
 
 ---
 
@@ -63,7 +62,7 @@ These experiences often combine:
 
 AI is not a standalone capability—it is embedded across the company's work:
 
-- **In tools**: Nodey represents AI-native production tooling created to solve gaps in existing software ecosystems, utilizing integrations with foundational platforms like **Gemini** and **Google Veo 3** to push the boundaries of automated scene generation and workflow orchestration.
+- **In tools**: Nodey represents AI-native production tooling created to solve gaps in existing software ecosystems, utilizing integrations with foundational platforms like **Gemini** and **Google Veo 3**     to push the boundaries of automated scene generation and workflow orchestration.
 - **In platforms**: AI is being integrated into OKO to support spatial computing workflows and real-time systems.
 - **In experiences**: AI is used to enable adaptive, responsive, and context-aware immersive environments.
 
