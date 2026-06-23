@@ -19,16 +19,11 @@ The company's core architecture operates at the intersection of:
 
 Magnopus typically works with:
 
-- **Theme Parks & Attractions**: Organizations building immersive guest experiences, location-based entertainment, interactive attractions, and next-generation venue experiences.
-
+- **Theme Parks & Attractions**: Organizations building immersive guest experiences, location-based entertainment, interactive         attractions, and next-generation venue experiences.
 - **Sports & Venue Operators**: Professional sports leagues, teams, stadiums, arenas, and event operators seeking digital twins, real-time venue technology, fan engagement systems, and spatial computing solutions.
-
 - **Film & Television Studios**: Studios requiring virtual production infrastructure, AI-assisted content creation workflows, real-time rendering pipelines, and custom production tooling.
-
 - **Streaming & Media Companies**: Organizations exploring new formats for immersive storytelling, audience engagement, and AI-enhanced content experiences.
-
 - **Experiential Marketing Agencies**: Agencies creating large-scale brand activations, live experiences, and physical-digital campaigns requiring real-time interaction and immersive technologies.
-
 - **Enterprise Digital Twin Programs**: Organizations developing spatially accurate operational environments, simulation systems, and real-time visualization platforms.
 
 ---
