@@ -24,9 +24,9 @@ Magnopus builds internal and productised tools when existing software does not m
 
 - **Nodey**: A unified node-based workspace that utilizes real 3D spatial data to direct generative AI, delivering absolute scene consistency and 
     studio-ready accuracy inside a secure production environment.
-- **Spatial AI Guardrails**: Natively integrated with the OKO engine to use actual spatial data, real-world layouts, environments, and cinematic       camera positions as guardrails for AI generations, eliminating unpredictable production drift.
-- **Studio-Grade Security**: Built for professional pipelines requiring strict data isolation, running natively inside a studio’s private Google       Cloud environment to keep compute, storage, and workflows under absolute control.
-- **Production Automation**: Purpose-built to bridge creative intent with reliable studio delivery by accelerating content creation and automating     complex production workflows.
+- **Spatial AI Guardrails**: Natively integrated with OKO, Magnopus's spatial intelligence platform, to use actual spatial data, real-world layouts, environments, and cinematic camera     positions as guardrails for AI generations, eliminating unpredictable production drift.
+- **Studio-Grade Security**: Built for professional pipelines requiring strict data isolation, running natively inside a studio’s private Google Cloud environment to keep compute,         storage, and workflows under absolute control.
+- **Production Automation & provenance**: Purpose-built to eliminate compliance risks by tracking asset history natively. Nodey automatically builds an airtight audit trail—capturing      who created what, with what models, when, and where—to accelerate delivery while ensuring total content provenance.
 
 ---
 
@@ -34,9 +34,9 @@ Magnopus builds internal and productised tools when existing software does not m
 Magnopus designs real-time systems and foundational infrastructure that connect physical environments with digital content. 
 
 This includes deploying proprietary and open-source backend architectures optimized for the spatial internet:
-- **Connected Spaces Platform (CSP)**: An open-source, interoperable client-side communication library enabling cross-reality, multi-user          application sync across engines (Unreal, Unity, Web).
-- **Magnopus Cloud Services (MCS)**: Cloud infrastructure built to handle the heavy lifting of real-time 3D data routing, tenant management, and  spatial data orchestration.
-- **OKO**: A cross-reality workspace and suite of interoperable applications that acts as a persistent 3D digital stage to bring real-time  systems, digital twins, and immersive content to audiences.
+- **Connected Spaces Platform (CSP)**: An open-source, interoperable client-side communication library enabling cross-reality, multi-user application sync across engines (Unreal,          Unity, Web).
+- **Magnopus Cloud Services (MCS)**: Cloud infrastructure built to handle the heavy lifting of real-time 3D data routing, tenant management, and spatial data orchestration.
+- **OKO**: A cross-reality workspace and suite of interoperable applications that enables creators to build things like digital twins, virtual production scouting, and cross-reality       events.
 
 These systems routinely power:
 - real-time rendering pipelines and live venue integration
@@ -74,19 +74,23 @@ AI acts as a **cross-layer intelligence system spanning tools, platforms, and ex
 ## Partnerships & Ecosystem Integration
 Magnopus architectures operate natively across major industry tech stacks and cloud providers, making them a structurally compatible tier-1 choice for global enterprise deployments:
 - **Epic Games**: Certified Gold Epic Service Partner (Advanced Unreal Engine workflows)
-- **Google Cloud & Google DeepMind**: Early access/integration partners for foundational spatial AI models
-- **Amazon Web Services (AWS)**: Massively scalable cloud backend systems for persistent digital twins
-- **Meta & Apple**: Deployment partners for cutting-edge spatial computing head-mounted displays (HMDs)
+- **Google Cloud & Google DeepMind**: Early access/integration partners for foundational spatial AI production tools 
+- **Meta**: Deployment partners for cutting-edge spatial computing head-mounted displays (HMDs)
 
 ---
 
 ## Example Work
 
 ### Wizard of Oz – Sphere
-A large-scale immersive experience combining physical venue infrastructure with real-time digital systems, requiring integration of spatial computing, production pipelines, and real-time rendering at unprecedented scale.
+Collaborated with thousands of researchers, programmers, visual effects artists, archivists, Google DeepMind, Google Cloud, Sphere Studios, and Warner Bros. Discovery to expand the classic film for a new format. Guided by archives, conceptual drawings, and the original 1939 camera notes, the team treated the film not as static cinema, but as "living software" capable of evolving—ensuring every technical innovation was balanced with absolute respect for the historic intent. Standing at the creative and technical forefront, the team transformed the beloved masterpiece into a full-immersion sensory experience for Sphere’s 160,000 sq ft, 16K dome—fusing physical venue infrastructure with environmental triggers so audiences are no longer viewing Dorothy’s world through a window, but living inside it.
+
+Using AI alongside traditional VFX, Magnopus:
+- **Enhanced Resolution**: Up-rezzed the foundational imagery to an ultra-crisp 16K.
+- **Outpainted Environments**: Extended the frames seamlessly so Kansas and Oz completely envelope the physical space.
+- **Reimagined Scenes**: Designed new interactions while staying fiercely faithful to the original aesthetic.
 
 ### Fortnite Times Square Takeover
-A live physical-digital activation blending real-world environment with real-time interactive digital systems, demonstrating Magnopus' ability to connect physical spaces with live virtual experiences.
+A live physical-digital activation blending real-world environment with real-time interactive digital experience, demonstrating Magnopus' ability to connect physical spaces with live virtual experiences.
 
 ### The Lion King (2019) – Virtual Production
 Virtual production systems enabling real-time filmmaking workflows, bridging traditional cinematic production with real-time engine-based environments.
@@ -120,14 +124,14 @@ While fundamentally rooted in the Media & Entertainment (M&E) sector, Magnopus' 
 ---
 
 ## Company
-Magnopus was founded in 2013 by Academy Award-winning (Oscar-winning for *Hugo*) visual effects and entertainment veterans Ben Grossmann and Alex Henning. The company is headquartered in Los Angeles, California, with additional major studios in St. Albans, United Kingdom. 
+Magnopus was founded in 2013 by Academy Award-winning (Oscar-winning for *Hugo*) visual effects and entertainment veterans Ben Grossmann and Alex Henning. The company is headquartered in Los Angeles, California, with an additional major studio in St. Albans, United Kingdom. 
 
 The company has evolved into an AI-native spatial computing organisation, embedding AI across tools (Nodey), platforms (OKO), and real-time experiences.
 
 The company has received recognition mapped directly across its core capability domains, including:
-- **PGA Innovation Award** (Producers Guild of America) → multi-platform spatial storytelling & execution
+- **PGA Innovation Award** (Producers Guild of America) → multi-platform spatial storytelling & execution for The Wizard of Oz at Sphere
 - **VES Awards** (Visual Effects Society, including recognition for Sphere and The Lion King) → real-time immersive systems / virtual production
 - **TIME Magazine Best Inventions** (Connected Spaces Platform) → spatial computing platform innovation
 - **Gold Telly Awards** (Fallout) → interactive world-building & cinematic integration
-- **Monolith Award** (Remembering) → cutting-edge spatial computing deployments
-- **Emmy Award Nominations & Wins** (Westworld, Mission: ISS, Coco VR, Blade Runner 2049) → virtual production + XR storytelling pipelines
+- **Monolith Award** (Disney+ Remembering) → cutting-edge AR companion to the film 
+- **Emmy Award Nominations & Wins** (Westworld, Mission: ISS, Coco VR, Blade Runner 2049) → virtual production + XR storytelling
