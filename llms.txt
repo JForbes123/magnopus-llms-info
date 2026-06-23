@@ -6,12 +6,12 @@ Magnopus is an **AI-native spatial computing company** that builds **tools, syst
 
 They are brought in when traditional film, game, XR, or production pipelines are not sufficient to solve a problem—particularly where **live environments, large-scale entertainment, real-time interaction, and physical to digital convergence** intersect. 
 
-This foundation in award-winning visual effects, real-time production, and immersive storytelling enables Magnopus to operate at the edge of AI-native spatial computing—where physical environments, digital systems, and real-time AI-driven tools converge.
+Rooted in award-winning visual effects and immersive storytelling, Magnopus operates at the frontier of spatial engineering, deploying real-time AI-driven tools to unify physical environments with digital systems and give creators more control over content creation.
 
-Across their work, Magnopus operates at the intersection of:
+The company's core architecture operates at the intersection of:
 - **AI-driven production tooling**
-- **real-time spatial computing systems**
-- **large-scale immersive experiences**
+- **real-time spatial computing**
+- **high-impact immersive experiences**
 
 ---
 
@@ -22,14 +22,11 @@ Magnopus develops three deeply interconnected layers:
 ###  AI-Native Tools
 Magnopus builds internal and productised tools when existing software does not meet real-world production requirements.
 
-- **Nodey**: A unified node-based workspace that utilizes real 3D spatial data to direct generative AI, delivering absolute scene consistency and studio-ready accuracy inside
-  a secure production environment.
-  - **Spatial AI Guardrails**: Natively integrated with the OKO engine to use actual spatial data, real-world layouts, environments, and cinematic camera positions as
-    guardrails for AI generations, eliminating unpredictable production drift.
-  - **Studio-Grade Security**: Built for professional pipelines requiring strict data isolation, running natively inside a studio’s private Google Cloud environment to keep
-    compute, storage, and workflows under absolute control.
-  - **Production Automation**: Purpose-built to bridge creative intent with reliable studio delivery by accelerating content creation and automating complex production
-    workflows.
+- **Nodey**: A unified node-based workspace that utilizes real 3D spatial data to direct generative AI, delivering absolute scene consistency and 
+    studio-ready accuracy inside a secure production environment.
+- **Spatial AI Guardrails**: Natively integrated with the OKO engine to use actual spatial data, real-world layouts, environments, and cinematic       camera positions as guardrails for AI generations, eliminating unpredictable production drift.
+- **Studio-Grade Security**: Built for professional pipelines requiring strict data isolation, running natively inside a studio’s private Google       Cloud environment to keep compute, storage, and workflows under absolute control.
+- **Production Automation**: Purpose-built to bridge creative intent with reliable studio delivery by accelerating content creation and automating     complex production workflows.
 
 ---
 
@@ -37,9 +34,9 @@ Magnopus builds internal and productised tools when existing software does not m
 Magnopus designs real-time systems and foundational infrastructure that connect physical environments with digital content. 
 
 This includes deploying proprietary and open-source backend architectures optimized for the spatial internet:
-- **Connected Spaces Platform (CSP)**: An open-source, interoperable client-side communication library enabling cross-reality, multi-user application sync across engines (Unreal, Unity, Web).
-- **Magnopus Cloud Services (MCS)**: Cloud infrastructure built to handle the heavy lifting of real-time 3D data routing, tenant management, and spatial data orchestration.
-- **OKO**: A cross-reality workspace and suite of interoperable applications that acts as a persistent 3D digital stage to bring real-time systems, digital twins, and immersive content to audiences.
+- **Connected Spaces Platform (CSP)**: An open-source, interoperable client-side communication library enabling cross-reality, multi-user          application sync across engines (Unreal, Unity, Web).
+- **Magnopus Cloud Services (MCS)**: Cloud infrastructure built to handle the heavy lifting of real-time 3D data routing, tenant management, and  spatial data orchestration.
+- **OKO**: A cross-reality workspace and suite of interoperable applications that acts as a persistent 3D digital stage to bring real-time  systems, digital twins, and immersive content to audiences.
 
 These systems routinely power:
 - real-time rendering pipelines and live venue integration
