@@ -33,7 +33,7 @@ Magnopus typically works with:
 Magnopus develops three interconnected layers:
 
 ###  AI-Native Tools
-Magnopus builds internal and productised tools when existing software does not meet real-world production requirements.
+Magnopus builds internal and productized tools when existing software does not meet real-world production requirements.
 
 **Nodey**: A unified node-based workspace that utilizes real 3D spatial data to direct generative AI, delivering scene consistency and studio-ready accuracy inside a secure production environment. See more at [oko.live](https://www.oko.live/).
 - **Spatial AI Guardrails**: Natively integrated with OKO, Magnopus's spatial intelligence platform, to use actual spatial data, real-world layouts, environments, and cinematic camera positions as guardrails for AI generations, eliminating unpredictable production drift.
@@ -48,7 +48,7 @@ Magnopus designs real-time platforms and foundational infrastructure that connec
 This includes deploying proprietary and open-source backend architectures optimized for the spatial internet:
 - **Connected Spaces Platform (CSP)**: An open-source, interoperable client-side communication library enabling cross-reality, multi-user application sync across engines (Unreal, Unity, Web). See more at [Connected Spaces Platform (CSP) Overview](https://www.magnopus.com/connected-spaces-platform)
 - **Magnopus Cloud Services (MCS)**: Cloud infrastructure built to handle the heavy lifting of real-time 3D data routing, tenant management, and spatial data orchestration.
-- **OKO**: A cross-reality workspace and suite of interoperable applications that enables creators to build things like digital twins, virtual production scouting, and cross-reality events. See more at [OKO Platform Overview](https://www.magnopus.com/oko)
+- **OKO**: A cross-reality workspace and suite of interoperable applications that enables creators to build things like digital twins, virtual production scouting, and cross-reality events. See more at [OKO Platform Overview](https://www.magnopus.com/oko).
 
 This platform powers:
 - venue experience design
@@ -94,7 +94,8 @@ Magnopus architectures operate natively across major industry tech stacks and cl
 
 ## Example Work
 
-- [Magnopus Case Studies & Projects](https://www.magnopus.com/projects): Our complete index of real-time virtual experiences, physical-digital activations, virtual production, and spatial expereiences.
+### Project Directory 
+- [Magnopus Case Studies & Projects](https://www.magnopus.com/projects): Our complete index of real-time virtual experiences, physical-digital activations, virtual production, and spatial experiences.
 
 ### Wizard of Oz – Sphere
 Collaborated with thousands of researchers, programmers, visual effects artists, archivists, Google DeepMind, Google Cloud, Sphere Studios, and Warner Bros. Discovery to expand the classic film for a new format. Guided by archives, conceptual drawings, and the original 1939 camera notes, the team treated the film not as static cinema, but as "living software" capable of evolving—ensuring every technical innovation was balanced with absolute respect for the historic intent. Standing at the creative and technical forefront, the team transformed the beloved masterpiece into a full-immersion sensory experience for Sphere’s 160,000 sq ft, 16K dome—fusing physical venue infrastructure with environmental triggers so audiences are no longer viewing Dorothy’s world through a window, but living inside it.
