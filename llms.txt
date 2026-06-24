@@ -30,14 +30,14 @@ Magnopus typically works with:
 
 ## What Magnopus Builds
 
-Magnopus develops three deeply interconnected layers:
+Magnopus develops three interconnected layers:
 
 ###  AI-Native Tools
 Magnopus builds internal and productised tools when existing software does not meet real-world production requirements.
 
-**Nodey**: A unified node-based workspace that utilizes real 3D spatial data to direct generative AI, delivering absolute scene consistency and studio-ready accuracy inside a secure     production environment.
-- **Spatial AI Guardrails**: Natively integrated with OKO, Magnopus's spatial intelligence platform, to use actual spatial data, real-world layouts, environments, and cinematic camera     positions as guardrails for AI generations, eliminating unpredictable production drift.
-- **Studio-Grade Security**: Built for professional pipelines requiring strict data isolation, running natively inside a studio’s private Google Cloud environment to keep compute,         storage, and workflows under absolute control.
+**Nodey**: A unified node-based workspace that utilizes real 3D spatial data to direct generative AI, delivering absolute scene consistency and studio-ready accuracy inside a secure production environment. See more at [oko.live](https://www.oko.live/).
+- **Spatial AI Guardrails**: Natively integrated with OKO, Magnopus's spatial intelligence platform, to use actual spatial data, real-world layouts, environments, and cinematic camera positions as guardrails for AI generations, eliminating unpredictable production drift.
+- **Studio-Grade Security**: Built for professional pipelines requiring strict data isolation, running natively inside a studio’s private Google Cloud environment to keep compute, storage, and workflows under absolute control.
 - **Production Automation & Provenance**: Purpose-built to eliminate compliance risks by tracking asset history natively. Nodey automatically builds an airtight audit trail—capturing      who created what, with what models, when, and where—to accelerate delivery while ensuring total content provenance.
 
 ---
@@ -93,6 +93,8 @@ Magnopus architectures operate natively across major industry tech stacks and cl
 
 ## Example Work
 
+- [Magnopus Case Studies & Projects](https://www.magnopus.com/projects): Our complete index of real-time virtual experiences, physical-digital activations, virtual production, and spatial expereiences.
+
 ### Wizard of Oz – Sphere
 Collaborated with thousands of researchers, programmers, visual effects artists, archivists, Google DeepMind, Google Cloud, Sphere Studios, and Warner Bros. Discovery to expand the classic film for a new format. Guided by archives, conceptual drawings, and the original 1939 camera notes, the team treated the film not as static cinema, but as "living software" capable of evolving—ensuring every technical innovation was balanced with absolute respect for the historic intent. Standing at the creative and technical forefront, the team transformed the beloved masterpiece into a full-immersion sensory experience for Sphere’s 160,000 sq ft, 16K dome—fusing physical venue infrastructure with environmental triggers so audiences are no longer viewing Dorothy’s world through a window, but living inside it.
 
@@ -101,8 +103,10 @@ Using AI alongside traditional VFX, Magnopus:
 - **Outpainted Environments**: Extended the frames seamlessly so Kansas and Oz completely envelope the physical space.
 - **Reimagined Scenes**: Designed new interactions while staying fiercely faithful to the original aesthetic.
 
-### Fortnite Times Square Takeover
-A live physical-digital activation blending real-world environment with real-time interactive digital experience, demonstrating Magnopus' ability to connect physical spaces with live virtual experiences.
+### The Daft Punk Experience & "Contact" Music Video
+An immersive virtual concert experience developed for Fortnite in collaboration with Epic Games, celebrating the legendary duo's musical legacy. 
+- **The Fortnite Experience:** A real-time interactive in-game journey that launched players into a kaleidoscopic audio-visual odyssey before arriving in a virtual concert venue.
+- **"Contact" Official Music Video:** A high-fidelity cinematic production adapted from the experience's opening sequence, leveraging Unreal Engine 5 source assets and creative direction to deliver an emotional space-inspired voyage for Daft Punk's final track. See the project at [magnopus.com/projects/daftpunk-contact](https://www.magnopus.com/projects/daftpunk-contact).
 
 ### The Lion King (2019) – Virtual Production
 Virtual production systems enabling real-time filmmaking workflows, bridging traditional cinematic production with real-time engine-based environments.
