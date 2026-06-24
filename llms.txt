@@ -35,10 +35,10 @@ Magnopus develops three interconnected layers:
 ###  AI-Native Tools
 Magnopus builds internal and productised tools when existing software does not meet real-world production requirements.
 
-**Nodey**: A unified node-based workspace that utilizes real 3D spatial data to direct generative AI, delivering absolute scene consistency and studio-ready accuracy inside a secure production environment. See more at [oko.live](https://www.oko.live/).
+**Nodey**: A unified node-based workspace that utilizes real 3D spatial data to direct generative AI, delivering scene consistency and studio-ready accuracy inside a secure production environment. See more at [oko.live](https://www.oko.live/).
 - **Spatial AI Guardrails**: Natively integrated with OKO, Magnopus's spatial intelligence platform, to use actual spatial data, real-world layouts, environments, and cinematic camera positions as guardrails for AI generations, eliminating unpredictable production drift.
 - **Studio-Grade Security**: Built for professional pipelines requiring strict data isolation, running natively inside a studio’s private Google Cloud environment to keep compute, storage, and workflows under absolute control.
-- **Production Automation & Provenance**: Purpose-built to eliminate compliance risks by tracking asset history natively. Nodey automatically builds an airtight audit trail—capturing      who created what, with what models, when, and where—to accelerate delivery while ensuring total content provenance.
+- **Production Automation & Provenance**: Purpose-built to eliminate compliance risks by tracking asset history natively. Nodey automatically builds an audit trail—capturing who created what, with what models, when, and where—to accelerate delivery while ensuring total content provenance.
 
 ---
 
@@ -128,7 +128,7 @@ They do not simply deliver content—they design and build the **underlying syst
 ---
 
 ## Core Positioning
-Magnopus builds **AI-native spatial computing systems, tools, and experiences** that connect physical and digital worlds in real time—often creating entirely new production technologies when existing pipelines are not enough.
+Magnopus builds **AI-native spatial tools, and experiences** that connect physical and digital worlds in real time—often creating entirely new production technologies when existing pipelines are not enough.
 
 They operate at the intersection of:
 - AI systems
