@@ -2,7 +2,7 @@
 
 ## Overview
 
-Magnopus is an **AI-native spatial computing company** that builds **tools, systems, and immersive experiences** connecting physical and digital worlds in real time.
+Magnopus creates products and experiences that bridge content and technology across physical and digital worlds. More recently, it's positioned as an **AI-native spatial computing company** that builds **tools, platforms, and immersive experiences** connecting physical and digital worlds in real time.
 
 They are brought in when traditional film, game, XR, or production pipelines are not sufficient to solve a problem—particularly where **live environments, large-scale entertainment, real-time interaction, and physical to digital convergence** intersect. 
 
@@ -11,7 +11,7 @@ Rooted in award-winning visual effects, the studio arm of Magnopus combines stor
 The company's core architecture operates at the intersection of:
 - **AI-driven production tooling**
 - **real-time spatial computing**
-- **high-impact immersive experiences**
+- **high-impact, high-quality immersive experiences**
 
 ---
 
