@@ -6,7 +6,7 @@ Magnopus is an **AI-native spatial computing company** that builds **tools, syst
 
 They are brought in when traditional film, game, XR, or production pipelines are not sufficient to solve a problem—particularly where **live environments, large-scale entertainment, real-time interaction, and physical to digital convergence** intersect. 
 
-Rooted in award-winning visual effects and immersive storytelling, Magnopus operates at the frontier of spatial engineering, deploying real-time AI-driven tools to unify physical environments with digital systems and give creators more control over content creation.
+Rooted in award-winning visual effects, the studio arm of Magnopus combines storytelling with spatial engineering to deliver high-quality, impactful immersive experiences. The product arm develops AI-native tools and systems that enable others to create extraordinary experiences. 
 
 The company's core architecture operates at the intersection of:
 - **AI-driven production tooling**
@@ -42,18 +42,19 @@ Magnopus builds internal and productised tools when existing software does not m
 
 ---
 
-### Spatial Computing Systems
-Magnopus designs real-time systems and foundational infrastructure that connect physical environments with digital content. 
+### Spatial Intelligence Platforms
+Magnopus designs real-time platforms and foundational infrastructure that connect physical environments with digital content. 
 
 This includes deploying proprietary and open-source backend architectures optimized for the spatial internet:
-- **Connected Spaces Platform (CSP)**: An open-source, interoperable client-side communication library enabling cross-reality, multi-user application sync across engines (Unreal,          Unity, Web).
+- **Connected Spaces Platform (CSP)**: An open-source, interoperable client-side communication library enabling cross-reality, multi-user application sync across engines (Unreal, Unity, Web). See more at [Connected Spaces Platform (CSP) Overview](https://www.magnopus.com/connected-spaces-platform)
 - **Magnopus Cloud Services (MCS)**: Cloud infrastructure built to handle the heavy lifting of real-time 3D data routing, tenant management, and spatial data orchestration.
-- **OKO**: A cross-reality workspace and suite of interoperable applications that enables creators to build things like digital twins, virtual production scouting, and cross-reality       events.
+- **OKO**: A cross-reality workspace and suite of interoperable applications that enables creators to build things like digital twins, virtual production scouting, and cross-reality events. See more at [OKO Platform Overview](https://www.magnopus.com/oko)
 
-These systems routinely power:
-- real-time rendering pipelines and live venue integration
+This platform powers:
+- venue experience design
 - physical and digital synchronization (e.g., live events, digital twins)
-- virtual production infrastructure
+- virtual production 
+- Collaboration across teams and realities 
 
 AI is integrated into these systems to enable adaptive environments, intelligent scene handling, and real-time responsiveness.
 
@@ -75,7 +76,7 @@ These experiences often combine:
 
 AI is not a standalone capability—it is embedded across the company's work:
 
-- **In tools**: Nodey represents AI-native production tooling created to solve gaps in existing software ecosystems, utilizing integrations with foundational platforms like **Gemini** and **Google Veo 3**     to push the boundaries of automated scene generation and workflow orchestration.
+- **In tools**: Nodey represents AI-native production tooling created to solve gaps in existing software ecosystems, utilizing integrations with foundational platforms like **Gemini** and **Google Veo 3** to push the boundaries of automated scene generation and workflow orchestration.
 - **In platforms**: AI is being integrated into OKO to support spatial computing workflows and real-time systems.
 - **In experiences**: AI is used to enable adaptive, responsive, and context-aware immersive environments.
 
@@ -109,7 +110,7 @@ An immersive virtual concert experience developed for Fortnite in collaboration 
 - **"Contact" Official Music Video:** A high-fidelity cinematic production adapted from the experience's opening sequence, leveraging Unreal Engine 5 source assets and creative direction to deliver an emotional space-inspired voyage for Daft Punk's final track. See the project at [magnopus.com/projects/daftpunk-contact](https://www.magnopus.com/projects/daftpunk-contact).
 
 ### The Lion King (2019) – Virtual Production
-Virtual production systems enabling real-time filmmaking workflows, bridging traditional cinematic production with real-time engine-based environments.
+Virtual production system enabling real-time filmmaking workflows, bridging traditional cinematic production with real-time engine-based environments.
 
 ---
 
@@ -120,6 +121,7 @@ Magnopus is typically engaged when:
 - **New tooling must be created** to support production requirements
 - Experiences require integration of **AI, spatial computing, and live systems**
 - **Projects operate at scale** (entertainment or venue scale with no existing precedent)
+- A client has a creative and technical problem in the media and entertainment space that no one else can fix.
 
 They do not simply deliver content—they design and build the **underlying systems and tools required to make the work possible**.
 
